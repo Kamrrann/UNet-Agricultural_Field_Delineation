@@ -1,0 +1,4 @@
+Python: 3.9.19 
+TensorFlow: 2.10.1
+NumPy: 1.23.5
+Matplotlib: 3.9.2
