@@ -21,4 +21,4 @@ ssification of different land cover types within agricultural landscapes.
 <img width="3205" height="2332" alt="Workflow" src="https://github.com/user-attachments/assets/58a07e76-ba2f-4536-80d3-4cd7e3f25805" />
 
 ## Contributing
-I welcome contributions and feedback from the community. Feel free to open issues, propose enhancements, or submit pull requests to improve this project. If you have collaboration ideas, research suggestions, or would like to work together on related topics, please feel free to reach out..
+I welcome contributions and feedback from the community. Feel free to open issues, propose enhancements, or submit pull requests to improve this project. If you have collaboration ideas, research suggestions, or would like to work together on related topics, please feel free to reach out.
